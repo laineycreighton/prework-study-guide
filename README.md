@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a study guide for the UC Berkley coding bootcamp. I built this project because I want to have an additional resource to refer to throughout the duration of the bootcamp. This will help structure my learning so I can better retain the information taught in the bootcamp. Without any prior dev knowledge, this project has allowed me to learn some basics of coding and given me the confidence to know that I can be successful in this field. Additionally, this project has helped me better understand how I learn and can study coding.
+This is a study guide for the UC Berkley coding bootcamp. I built this project to have an additional resource to refer to throughout the duration of the bootcamp. This will help structure my learning so I can better retain the information taught in the bootcamp. Without any prior dev knowledge, this project has allowed me to learn some basics of coding and given me the confidence to know that I can be successful in this field. Additionally, this project has helped me better understand how I learn and can study coding.
 
 ## Installation
 
